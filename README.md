@@ -10,8 +10,8 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ishan10) 
 
 ## 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,express,jquery)
-![My Skills2](https://skillicons.dev/icons?i=nodejs,mongodb,git,github,arduino)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap)
+![My Skills2](https://skillicons.dev/icons?i=express,jquery,nodejs,mongodb,git,github,arduino)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ishan-git-10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishan-git-10&theme=dark&hide_border=false)<br/>
