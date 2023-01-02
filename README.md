@@ -6,7 +6,7 @@
 
 
 🌱 I’m currently learning **Web Development**
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan10) 
 
 # 💻 Tech Stack:
@@ -23,4 +23,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-git-10&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-git-10" /> </p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
